@@ -9,3 +9,4 @@
 
 * [Introduction to SQL](https://www.sqlshack.com/introduction-to-sql/)
 *[Common Table Expressions](https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver15)
+* [CTE](https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver15)
