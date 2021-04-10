@@ -3,3 +3,4 @@ Structured Query Language (SQL)
 Although there are many several programming languages for data scientists, SQL seems to be a common thread: it is advisable to learn SQL, regardless of which other programming and data visualisation skill one learns.
 
 SQL comes in several parts. 
+SQL Server
