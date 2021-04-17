@@ -4,3 +4,4 @@ Although there are many several programming languages for data scientists, SQL s
 
 SQL comes in several parts. 
 SQL Server
+SQL and data science
